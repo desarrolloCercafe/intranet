@@ -1,0 +1,16 @@
+Web Services
+
+VENTAS DESPOSTE; 
+http://201.236.212.130:82/servicesIntranet.php?user=1&num=1&format=json&table=ventas_desposte
+
+MAESTRA DESPOSTE;
+http://201.236.212.130:82/servicesIntranet.php?user=1&num=1&format=json&table=inventario_desposte
+
+SALDO GEMINUS DESPOSTE
+
+http://201.236.212.130:82/servicesIntranet.php?user=1&num=1&format=json&table=medicamentos
+
+
+CONTEO FISICO DESPOSTE
+
+ODK: http://201.236.212.130:86/inventario_fisico_desposte_control_interno_core

@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family:'Open Sans',Sans-serif;
+}
+.borde{
+	width: 10%;
+	padding: 3px;
+	margin-right: 3em;
+	margin-bottom: 1em;
+	
+	
+	
+}
+
+#esconder1,#esconder2,#esconder3,#esconder4,#esconder5{
+    margin-left: 40px;
+    
+}

@@ -1,0 +1,102 @@
+	
+
+
+.nav_inicio{
+	background: #df0101 !important;
+	border: none !important;
+	border-radius: 0px;
+}
+#menus:hover{
+	background: white;
+	color: #df0101 !important;
+	display: block;
+}
+#menus:active{
+	background: white;
+	color: #df0101 !important;
+}
+
+#menus:focus{
+	background: white;
+	color: #df0101 !important;
+}
+
+.boton{
+	background:  #df0101;
+	color: white;
+}
+.boton:hover{
+	background: white;
+	color: red;
+}
+#titulo{
+	background: #df0101;
+	color: white;
+}
+.dropdown-submenu{
+	position: relative;
+}
+.form-div{
+	margin-top: 10px;
+}
+.boton_excel{
+	background: green;
+	color: white;
+}	
+.boton_excel:hover{
+	background: white;
+	color: green;
+}
+.input-label{
+	background: #df0101;
+	color: #fff;
+	cursor: pointer;
+}
+.input-label:hover{
+	color: white;
+}
+
+#file{
+	display: none;
+}
+
+#foto_perfil{
+	display: none;
+}
+
+input[readonly], textarea[readonly]{
+	cursor: context-menu;
+}
+
+thead{
+	background: #df0101;
+}
+
+input.data_list{
+	cursor: pointer;
+}
+
+select{
+	cursor: pointer;
+}
+
+.submenus>li>a
+{
+	color: black !important;
+}
+
+.boton_granjas:hover{
+	background: white;
+}
+
+.boton_granjas:hover>a{
+	color: #df0101 !important;
+}
+.boton_ojo:hover{
+	background: white;
+	color: #4D970B;
+}
+
+.boton_ojo:active{
+	color: #4D970B;
+}

@@ -1,0 +1,22 @@
+CACHE MANIFEST
+
+../resources/views/formularios_form.blade.php
+
+../public/frontend_enketo/css/bootstrap4.min.css
+../public/frontend_enketo/css/bootstrap.min.css
+../public/media/css/jquery-ui.min.css
+../public/frontend_enketo/css/style.css
+../public/frontend_enketo/js/jquery.js
+../public/frontend_enketo/js/bootstrap.min.js
+../public/frontend_enketo/js/jquery.smooth-scroll.min.js
+../public/frontend_enketo/fonts/fontawesome-webfont.eot 
+../public/frontend_enketo/fonts/fontawesome-webfont.svg
+../public/frontend_enketo/fonts/fontawesome-webfont.ttf
+../public/frontend_enketo/fonts/fontawesome-webfont.woff
+../public/frontend_enketo/fonts/FontAwesome.otf
+../public/frontend_enketo/fonts/icomoon/icomoon.eot
+../public/frontend_enketo/fonts/icomoon/icomoon.ttf
+../public/frontend_enketo/fonts/icomoon/icomoon.woff
+../public/frontend_enketo/fonts/icomoon/icomoon.dev.svg
+../public/frontend_enketo/fonts/icomoon/icomoon.svg
+ 

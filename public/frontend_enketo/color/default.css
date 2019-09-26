@@ -1,0 +1,39 @@
+a, a:hover{
+	color: #FA166D;
+}
+.navbar-default{
+	background: #FA166D;
+}
+
+.form-control:focus {
+  border-color: #FA166D;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 2px #FA166D;
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 2px #FA166D;
+}
+
+.service .carousel-indicators .active {
+	background: #FA166D;
+}
+
+.btn-theme {
+	background: #FA166D;
+}
+
+.lb-album li > a span{
+	background: #FA166D;
+	background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%, #FA166D 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,0.56)), color-stop(100%,#FA166D));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,#FA166D 100%);
+	background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,#FA166D 100%);
+	background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,#FA166D 100%);
+	background: radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,#FA166D 100%);
+}
+.lb-overlay{
+	background: #FA166D;
+	background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%, #FA166D 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,0.56)), color-stop(100%,#FA166D));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,#FA166D 100%);
+	background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,#FA166D 100%);
+	background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,#FA166D 100%);
+	background: radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,#FA166D 100%);
+}
